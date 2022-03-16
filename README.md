@@ -4,13 +4,17 @@ Bar chart races project realized with Python and Tableau.
 
 -- Project status: [Completed]
 
+## About
+
+![Gif](Tableau-premierLeague_bcr.gif)
+
 ## Repository overview
 
 ```
 ├── README.md
-├── ProjectFolder
-│   ├── notebook
-│   ├── data
+├── notebook
+├── data
+└── files
 ```
 
 - Premier League
